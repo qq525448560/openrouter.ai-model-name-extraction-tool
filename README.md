@@ -10,7 +10,8 @@
 - 🧵 **多线程不卡界面**：网络请求全部在后台线程执行，界面保持流畅
 ---
 ## 🖥️ 界面预览
-![Uploading image.png…]()
+
+<img width="762" height="572" alt="image" src="https://github.com/user-attachments/assets/974a0894-eabe-4326-90a9-b3986da55b57" />
 
 ---
 ## 📋 环境要求
